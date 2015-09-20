@@ -70,5 +70,5 @@ $(document).on('ready', function(){
 
 # Attribution
 
-The script used is taken from [Roots.io](NSRosenqvist\ScriptRunner\Components) and is licensed under [MIT](). The icon is
+The script used is taken from [Roots.io](NSRosenqvist\ScriptRunner\Components) and is licensed under [MIT](https://github.com/nsrosenqvist/october-plugin_scriptrunner/blob/master/LICENSE_Roots.md). The icon is
 made by Arthur Skripnik and is licensed under [CC 3.0](http://creativecommons.org/licenses/by/3.0/us/).
