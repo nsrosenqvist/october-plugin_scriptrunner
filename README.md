@@ -1,4 +1,4 @@
-ScriptRunner uses a component from the popular Wordpress framework [Roots.io](NSRosenqvist\ScriptRunner\Components).
+ScriptRunner uses a component from the popular Wordpress framework [Roots.io](https://roots.io/).
 It's a simple JavaScript that handles script execution depending on what page
 of the site the user is visiting. It can trigger scripts depending on name of page,
 type of page (*page*, *static_page*, *blog_post*, *blog_posts*) and name of layout. This is done
@@ -70,5 +70,5 @@ $(document).on('ready', function(){
 
 # Attribution
 
-The script used is taken from [Roots.io](NSRosenqvist\ScriptRunner\Components) and is licensed under [MIT](https://github.com/nsrosenqvist/october-plugin_scriptrunner/blob/master/LICENSE_Roots.md). The icon is
+The script used is taken from [Roots.io](https://roots.io/) and is licensed under [MIT](https://github.com/nsrosenqvist/october-plugin_scriptrunner/blob/master/LICENSE_Roots.md). The icon is
 made by Arthur Skripnik and is licensed under [CC 3.0](http://creativecommons.org/licenses/by/3.0/us/).
